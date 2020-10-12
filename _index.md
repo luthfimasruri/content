@@ -7,7 +7,7 @@ stacks:
     icon: icons/stacks/gopher.svg
     desc: Open Source Programming Language
   - lang: VueJS
-    icon: icons/stacks/vuejs.svg
+    icon: icons/stacks/vue.svg
     desc: Progressive Javascript Framework
   - lang: Tailwind
     icon: icons/stacks/tailwind.svg
